@@ -34,7 +34,7 @@ export default function LandingPage() {
         {
           name: "Inquiry",          id: "inquiry"},
       ]}
-      brandName="EditStudio"
+      brandName="uinovafx "
     />
   </div>
 
@@ -132,7 +132,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AjpWKT6cSVBZtC53RteKU4bIef/minimalist-professional-video-editing-co-1774796363734-dd15417f.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AjpWKT6cSVBZtC53RteKU4bIef/uploaded-1774796637053-ttl2z0mi.png"
       columns={[
         { title: "Platform", items: [{ label: "Portfolio", href: "#" }, { label: "Services", href: "#" }] },
         { title: "Company", items: [{ label: "Privacy Policy", href: "#" }, { label: "Contact", href: "#inquiry" }] },
