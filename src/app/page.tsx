@@ -45,9 +45,9 @@ export default function LandingPage() {
       title="Cinematic Storytelling for Your Brand"
       description="Professional freelance video editing to help you capture attention and drive engagement. Let's create something extraordinary."
       leftCarouselItems={[
-        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AjpWKT6cSVBZtC53RteKU4bIef/professional-video-editing-software-time-1774796364320-4ca6952d.png", imageAlt: "Editing interface" },
-        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AjpWKT6cSVBZtC53RteKU4bIef/close-up-of-video-editing-timeline-moder-1774796364554-5e623a0c.png", imageAlt: "Timeline editing" },
-        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AjpWKT6cSVBZtC53RteKU4bIef/color-grading-tools-in-a-professional-vi-1774796367040-74c8e212.png", imageAlt: "Color grading" },
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AjpWKT6cSVBZtC53RteKU4bIef/professional-video-editing-software-time-1774796364320-4ca6952d.png?_wi=1", imageAlt: "Editing interface" },
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AjpWKT6cSVBZtC53RteKU4bIef/close-up-of-video-editing-timeline-moder-1774796364554-5e623a0c.png?_wi=1", imageAlt: "Timeline editing" },
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AjpWKT6cSVBZtC53RteKU4bIef/color-grading-tools-in-a-professional-vi-1774796367040-74c8e212.png?_wi=1", imageAlt: "Color grading" },
         { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AjpWKT6cSVBZtC53RteKU4bIef/abstract-video-production-concept-art-mo-1774796364201-dabd42a8.png", imageAlt: "Video production" },
         { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AjpWKT6cSVBZtC53RteKU4bIef/post-production-editing-studio-dashboard-1774796365828-b981dc1b.png", imageAlt: "Post production" },
         { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AjpWKT6cSVBZtC53RteKU4bIef/modern-high-tech-video-rendering-interfa-1774796364733-07efe4a1.png", imageAlt: "Final cut" },
@@ -94,9 +94,9 @@ export default function LandingPage() {
       title="Why Choose My Workflow?"
       description="I combine technical precision with creative flair to ensure every frame serves your story."
       features={[
-        { title: "4K Quality", description: "Crisp visuals for every project.", buttonIcon: Zap, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AjpWKT6cSVBZtC53RteKU4bIef/professional-video-editing-software-time-1774796364320-4ca6952d.png", imageAlt: "Professional video editing software timeline interface with dark modern theme." },
-        { title: "Fast Turnaround", description: "Deadlines matter as much as quality.", buttonIcon: Clock, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AjpWKT6cSVBZtC53RteKU4bIef/close-up-of-video-editing-timeline-moder-1774796364554-5e623a0c.png", imageAlt: "Close up of video editing timeline, modern software interface." },
-        { title: "Collaborative", description: "Iterate until we reach perfection.", buttonIcon: Users, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AjpWKT6cSVBZtC53RteKU4bIef/color-grading-tools-in-a-professional-vi-1774796367040-74c8e212.png", imageAlt: "Color grading tools in a professional video software interface." },
+        { title: "4K Quality", description: "Crisp visuals for every project.", buttonIcon: Zap, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AjpWKT6cSVBZtC53RteKU4bIef/professional-video-editing-software-time-1774796364320-4ca6952d.png?_wi=2", imageAlt: "Professional video editing software timeline interface with dark modern theme." },
+        { title: "Fast Turnaround", description: "Deadlines matter as much as quality.", buttonIcon: Clock, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AjpWKT6cSVBZtC53RteKU4bIef/close-up-of-video-editing-timeline-moder-1774796364554-5e623a0c.png?_wi=2", imageAlt: "Close up of video editing timeline, modern software interface." },
+        { title: "Collaborative", description: "Iterate until we reach perfection.", buttonIcon: Users, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AjpWKT6cSVBZtC53RteKU4bIef/color-grading-tools-in-a-professional-vi-1774796367040-74c8e212.png?_wi=2", imageAlt: "Color grading tools in a professional video software interface." },
       ]}
     />
   </div>
